@@ -1,0 +1,86 @@
+body{
+    background-image: url("../img/índice.jpg");
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: gray;
+  width: 300px;
+  margin-left: 850px;
+  margin-top: 25px;
+  padding-left: 50px;
+  border-radius: 10px;
+  
+}
+
+.navbar a {
+  float:left;
+  font-size: 16px;
+  color: white; 
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+h1{
+    color: black;
+    text-align: center;
+    font-size: 50px;
+}
+
+.imgdiv {
+    margin-left: 250px;
+    width: 800px;
+    height: 400px;
+    background-image: url("../img/images.jpg");
+    background-size: 790px;
+    color: white;
+    font-size: 28px;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+#facebook {
+    width: 40px;
+    height: 40px;
+    background: url(https://4.bp.blogspot.com/-fE6jY2sCjhE/TmjsS516Q8I/AAAAAAAACOc/pVUNDOgiw8Q/s1600/redes.png) -52px -100px;
+    }
+    
+    #facebook:hover {
+    width: 40px;
+    height: 40px;
+    background: url(https://4.bp.blogspot.com/-fE6jY2sCjhE/TmjsS516Q8I/AAAAAAAACOc/pVUNDOgiw8Q/s1600/redes.png) -52px -50px;
+    }
+    
+    #youtube {
+    width: 40px;
+    height: 40px;
+    background: url(https://4.bp.blogspot.com/-fE6jY2sCjhE/TmjsS516Q8I/AAAAAAAACOc/pVUNDOgiw8Q/s1600/redes.png) -98px -100px;
+    }
+    
+    
+    #youtube:hover {
+    width: 40px;
+    height: 40px;
+    background: url(https://4.bp.blogspot.com/-fE6jY2sCjhE/TmjsS516Q8I/AAAAAAAACOc/pVUNDOgiw8Q/s1600/redes.png) -98px -50px;
+    }
+    
+    #twitter {
+    width: 40px;
+    height: 40px;
+    background: url(https://4.bp.blogspot.com/-fE6jY2sCjhE/TmjsS516Q8I/AAAAAAAACOc/pVUNDOgiw8Q/s1600/redes.png) -145px -100px;
+    }
+    #twitter:hover {
+    width: 40px;
+    height: 40px;
+    background: url(https://4.bp.blogspot.com/-fE6jY2sCjhE/TmjsS516Q8I/AAAAAAAACOc/pVUNDOgiw8Q/s1600/redes.png) -145px -50px;
+    }
+
+    .boxfooter {
+        background-color: rgba(105, 105, 105, 0.8);            /* color rgba */  
+        width: 95%;
+        height: 80%;
+        padding: 10px;                                      /* padding */ 
+        margin: 10px;                                      /* margin */ 
+        border-width: 5px;
+        margin-top:50px;
+    }
